@@ -41,7 +41,7 @@ Expertise in:
 
 ## 🏢 Experience Highlights
 
-- **FARFETCH** — Software Engineering Lead (2022–Present)  
+- **FARFETCH** — Software Engineering Lead (2023–Present)  
   Senior Software Engineer (2020–2023)  
   Software Engineer (2018–2020)
 
@@ -65,9 +65,8 @@ Expertise in:
 To run this project on GitHub Pages:
 
 ```bash
-git clone https://github.com/gianaugusto
-cd gianaugusto
-# Commit and push the index.html
+git clone https://github.com/gianaugusto/gianaugusto.github.io
+cd gianaugusto.github.io
 ```
 
 ---
